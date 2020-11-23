@@ -1,0 +1,5 @@
+package com.mshakir.javaapi.ws.ui.controller;
+
+public class UserController {
+
+}
